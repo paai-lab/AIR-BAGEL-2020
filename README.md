@@ -1,5 +1,5 @@
-# Project Name
-> AIR-BAGEL
+# Title: AIR-BAGEL: An Interactive Root cause-Based Anomaly Generator for Event Logs
+__*AIR-BAGEL: An Interactive Root cause-Based Anomaly Generator for Event Logs*, Jonghyeon Ko, Jongyup Lee, and Marco Comuzzi, Proceedings of International Conference on Process Mining (ICPM) Demo Track, 2020, Accepted for publication (Sep 2020)__
 
 ## Table of contents
 * [General info](#general-info)
